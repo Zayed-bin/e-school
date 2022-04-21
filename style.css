@@ -1,0 +1,73 @@
+.section img{
+     width: 150px;
+
+}
+.buy-now-button{
+     background-image: linear-gradient(50deg,yellow,green);
+     border-radius: 20px;
+     color: white;
+     padding:10px;
+     border: none;
+}
+#myimage img{
+width: 80%;
+margin-top:50px;
+}
+.container{
+    margin-top: 50px;
+
+}
+.card img{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    display: block;
+    padding-top: 40px;
+}
+.card{
+    margin: 50px;
+    border: none;
+   
+    border-radius: 10px;
+}
+
+
+.card:hover{
+    box-shadow: 5px 5px 10px;
+    background-color: yellowgreen!important;
+}
+.sabit img{
+   width: 90%;
+}
+
+#mybutton{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    
+}
+#last-card-image img{
+    width: 20%;
+}
+#my-last-section{
+    margin-top: 200px;
+    background-color: black;
+    color: white;
+}
+#subject, li{
+     list-style: none;
+}
+ #my-last-container{
+     padding-top: 40px;
+        padding-bottom: 30px;
+ }
+ #left-card-img img{
+    height: 30px;
+    width: 30px;
+    padding: 4px;
+    
+ }
+ #left-card-text{
+     font-size: 12px;
+     margin-top: 4px;
+ }
+
